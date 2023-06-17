@@ -1,0 +1,5 @@
+﻿  a81_project_bank_extensionProject.cpp
+D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a81_project_bank_extensionProject\a81_project_bank_extensionProject.cpp(114,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a81_project_bank_extensionProject\a81_project_bank_extensionProject.cpp(186,41): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a81_project_bank_extensionProject\a81_project_bank_extensionProject.cpp(542,43): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  a81_project_bank_extensionProject.vcxproj -> D:\Courses\CS_FOundations\C++\visual_studio_c++_repo\a81_project_bank_extensionProject\x64\Debug\a81_project_bank_extensionProject.exe
